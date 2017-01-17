@@ -1,0 +1,36 @@
+body {
+	background-image: url(img/oats.jpg);
+}
+
+#container {
+	width: 100%;
+	padding: 0;
+}
+
+#wrapper {
+	width: 75%;
+	height: 500px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: white;
+}
+li {
+	list-style: none;
+}
+
+li:nth-child(even){
+	background-color: #DDD;
+}
+li:nth-child(odd){
+	background-color: #EEE;
+}
+
+
+
+
+
+
+
+
+
+
