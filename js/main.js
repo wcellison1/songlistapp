@@ -1,5 +1,5 @@
-$(document).ready(function(){
-	alert("connected");
+//$(document).ready(function(){//
+	//alert("connected");//
 //the functin after the click event
 //is called an anonymous function NO NAME
 
@@ -15,5 +15,4 @@ $('#add').on("click", function(){
 	//better usr interfae (UI)
 	$("#song").val("");
 
-});
 });
